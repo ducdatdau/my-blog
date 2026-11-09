@@ -4,6 +4,7 @@ date: 2026-11-08
 categories: [Mathematics]
 tags: [algebra]
 math: true
+published: false
 ---
 
 ## Bài tập

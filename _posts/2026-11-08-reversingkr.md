@@ -5,9 +5,11 @@ categories: [CTF Writeups]
 tags: [reversing]
 ---
 
-Trang wargame reversing.kr là nơi mình đã tập luyện khi bắt đầu học rev. Ở đây, mình có thể được tiếp xúc với nhiều dạng bài và đa dạng các kiến trúc như exe, elf, object-c. Dưới đây là toàn bộ writeup của mình, được sắp xếp theo thứ tự độ khó mặc định của trang web. 
+Reversing.kr là trang wargame mà mình đã làm khá nhiều khi mới bắt đầu học rev. Các challenge ở đây rất đa dạng, bao gồm nhiều nền tảng (Windows, Linux, macOS) cũng như nhiều dạng bài khác nhau như VM protection, anti-debugging, .NET, flash hay custom encoding. 
 
-![Ảnh](/assets/img/posts/reversingkr/2.png)
+Dưới đây là toàn bộ writeup của mình, được sắp xếp theo thứ tự độ khó mặc định của trang web. 
+
+![img](/assets/img/posts/reversingkr/2.png)
 
 ## [100 point] Easy Crack
 

@@ -1,5 +1,5 @@
 ---
-title: "Phân tích firmware IoT với Binwalk và Ghidra"
+title: "[IoT] Phân tích firmware IoT với Binwalk và Ghidra"
 date: 2026-11-08
 categories: [Research]
 tags: [iot, firmware, reverse-engineering]

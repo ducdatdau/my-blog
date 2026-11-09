@@ -15,6 +15,9 @@ tabs:
   tags: Tags
   archives: Archives
   about: About
+  ctf writeups: CTF Writeups
+  security research: Security Research
+  mathematics: Mathematics
 
 # the text displayed in the search bar & search results
 search:
